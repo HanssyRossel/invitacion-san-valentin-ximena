@@ -11,15 +11,9 @@
 }
 
 body {
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  height: 100vh; /* Ocupa toda la altura del móvil */
   display: flex;
-  align-items: center;
+  align-items: flex-end;
   justify-content: center;
-  text-align: center;
-  font-size: 1.2em;
   min-height: 100vh;
   background-color: var(--dark-color);
   overflow: hidden;
