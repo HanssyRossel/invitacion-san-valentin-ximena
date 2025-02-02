@@ -4,8 +4,8 @@
 }
 body{
     color: azure;
-    width: 90%;
-    height: 90vh;
+    width: 100%;
+    height: 82vh;
     display: flex;
     flex-direction: column;
     align-items: center;
