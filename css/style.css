@@ -98,7 +98,7 @@ body{
         font-family: Arial, sans-serif;
         text-align: center;
         padding: 50px;
-        background-color: #f0f0f0;
+        background-color: black !important;
         color: #333;
     }
     
