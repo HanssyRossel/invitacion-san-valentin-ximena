@@ -14,7 +14,6 @@ body {
   display: flex;
   align-items: flex-end;
   justify-content: center;
-  width: 100%;
   min-height: 100vh;
   background-color: var(--dark-color) !important;
   overflow: hidden;
