@@ -37,7 +37,7 @@ body {
   font-weight: bold;
   letter-spacing: 4px;
 }
-@media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 600x) {
   /* Estilos específicos para dispositivos con un ancho máximo de 600px */
   #lyrics {
       font-size: 14px; /* Reduce el tamaño del texto para dispositivos más pequeños */
@@ -116,7 +116,7 @@ body {
   */
 }
 
-@media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 600px) {
   /* Estilos específicos para dispositivos con un ancho máximo de 600px */
 .flowers {
       font-size: 14px;
